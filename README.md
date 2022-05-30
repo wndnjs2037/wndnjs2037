@@ -1,4 +1,4 @@
-<div align=center>
+
 <!--
 Hi there 👋 
 **wndnjs2037/wndnjs2037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=♥%20Welcome%20♥&desc=Juwon's%20Github&fontSize=60&descSize=25&animation=fadeIn&fontAlign=50&fontAlignY=45)
-
 #
 
 <div align=center><h3> 👩‍💻 Tech Stack 👨‍💻 </h3>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div align=center><h3> 💌 Contact Me 💌 </h3>
 <a href="https://dev-moomin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-0B2C4A?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <a href="https://www.instagram.com/juwon0000605" target="_blank"><img src="https://img.shields.io/badge/instagram-5C2D91?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:wndnjs2037@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-517A9E?style=flat-square&logo=Minutemailer&logoColor=white"/></a></div><br>
+<a href="mailto:wndnjs2037@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-517A9E?style=flat-square&logo=Minutemailer&logoColor=white"/></a></div><br><br>
 
 
 <div align=center>
@@ -56,5 +56,4 @@ Here are some ideas to get you started:
 
 ![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs2037&show_icons=true&theme=dark)
 <!-- ![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark) -->
-  
-  </div>
+</div>
