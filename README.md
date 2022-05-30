@@ -1,7 +1,6 @@
 <div align=center>
-Hi there 👋 
-
 <!--
+Hi there 👋 
 **wndnjs2037/wndnjs2037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
