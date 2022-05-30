@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <div align=center><h3> 💌 Contact Me 💌 </h3>
 <a href="https://dev-moomin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-0B2C4A?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <a href="https://www.instagram.com/juwon0000605" target="_blank"><img src="https://img.shields.io/badge/instagram-5C2D91?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:wndnjs2037@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-517A9E?style=flat-square&logo=Minutemailer&logoColor=white"/></a></div><br><br>
-
+<a href="mailto:wndnjs2037@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-517A9E?style=flat-square&logo=Minutemailer&logoColor=white"/></a></div><br>
 
 <div align=center>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs2037"></div><br>
