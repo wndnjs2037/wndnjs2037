@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 
 ![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs2037&show_icons=true&theme=dark)
-![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark)
+<!-- ![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark) -->
