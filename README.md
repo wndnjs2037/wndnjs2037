@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs2037"></div>
 
 
-![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs2037&show_icons=true)
-![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs2037&show_icons=true&theme=dark)
+![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark)
