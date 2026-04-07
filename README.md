@@ -16,49 +16,38 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=♥%20Welcome%20♥&desc=Juwon's%20Github&fontSize=60&descSize=25&animation=fadeIn&fontAlign=50&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=♥%20Hello-World%20♥&desc=Juwon's%20Github&fontSize=60&descSize=25&animation=fadeIn&fontAlign=50&fontAlignY=45)
 #
+
+<h3> 👋 Hi there! </h3>
+🔭 AI 구매 솔루션을 제공하는 에어서플라이의 개발자 황주원입니다.<br>
+🌱 React + NestJS 기반의 웹 서비스 개발과 LangChain을 활용한 AI 기능 구현에 관심이 많습니다.<br>
+⚡ 프론트엔드부터 백엔드, 데이터 파이프라인까지 폭넓게 공부하고 있습니다.
 
 <div align=center><h3> 👩‍💻 Tech Stack 👨‍💻 </h3>
   <h5> Use as the main </h5>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></div>
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-</div>
-<br>
-
-<!-- 
-<div align=center>
-  <h5> Use as the least once </h5>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></div><br>
-
-<div align=center>
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-</div><br>
--->
-
-<div align=center><h3> 📚 Studding 📚 </h3>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><br>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 <br>
 
+<br>
 <div align=center><h3> 💌 Contact Me 💌 </h3>
 <a href="https://dev-moomin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/tistory-0B2C4A?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <a href="https://www.instagram.com/juwon0000605" target="_blank"><img src="https://img.shields.io/badge/instagram-5C2D91?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:wndnjs2037@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-517A9E?style=flat-square&logo=Minutemailer&logoColor=white"/></a></div><br>
 
-<div align=center>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wndnjs2037"></div><br>
 
-
-![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api?username=wndnjs2037&show_icons=true&theme=dark)
-<!-- ![wndnjs2037's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wndnjs2037&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark) -->
-</div>
