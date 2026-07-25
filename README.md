@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=♥%20Hello-World%20♥&desc=Juwon's%20Github&fontSize=60&descSize=25&animation=fadeIn&fontAlign=50&fontAlignY=45)
-#
-
 <h3> 👋 Hi there! </h3>
 🔭 AI 구매 솔루션을 제공하는 에어서플라이의 개발자 황주원입니다.<br>
 🌱 React + NestJS 기반의 웹 서비스 개발과 LangChain을 활용한 AI 기능 구현에 관심이 많습니다.<br>
